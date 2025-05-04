@@ -1,4 +1,4 @@
 #include <iostream>
 int main() {
-	cout << "666";
+	cout << "000";
 }
